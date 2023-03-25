@@ -1,0 +1,10 @@
+C:\Users\User\Desktop\Vadim-repository-master\муравьи ходят, экономя память\муравьи ходят, экономя память\obj\Debug\girlianda.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\Vadim-repository-master\муравьи ходят, экономя память\муравьи ходят, экономя память\obj\Debug\girlianda.Form1.resources
+C:\Users\User\Desktop\Vadim-repository-master\муравьи ходят, экономя память\муравьи ходят, экономя память\obj\Debug\муравьи_ходят__экономя_память.Properties.Resources.resources
+C:\Users\User\Desktop\Vadim-repository-master\муравьи ходят, экономя память\муравьи ходят, экономя память\obj\Debug\girlianda.csproj.GenerateResource.cache
+C:\Users\User\Desktop\Vadim-repository-master\муравьи ходят, экономя память\муравьи ходят, экономя память\obj\Debug\girlianda.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Vadim-repository-master\муравьи ходят, экономя память\муравьи ходят, экономя память\obj\Debug\муравьи ходят, экономя память.exe
+C:\Users\User\Desktop\Vadim-repository-master\муравьи ходят, экономя память\муравьи ходят, экономя память\obj\Debug\муравьи ходят, экономя память.pdb
+C:\Users\User\Desktop\Vadim-repository-master\муравьи ходят, экономя память\муравьи ходят, экономя память\bin\Debug\муравьи ходят, экономя память.exe.config
+C:\Users\User\Desktop\Vadim-repository-master\муравьи ходят, экономя память\муравьи ходят, экономя память\bin\Debug\муравьи ходят, экономя память.exe
+C:\Users\User\Desktop\Vadim-repository-master\муравьи ходят, экономя память\муравьи ходят, экономя память\bin\Debug\муравьи ходят, экономя память.pdb
